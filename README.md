@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/BloxPaul/ba-l-yoruz/tree/main?tab=readme-ov-file">
-    <img src="https://i.imgur.com/O1uMP4F.png" alt="Bloxluck Logo" width="125" height="125" style="background:white; vertical-align: middle;">
+    <img src="https://dragon.online-convert.com/download-file/f16159e0-d0cc-48fb-8214-75008a00c1f4/62999c09-79e5-4f10-b424-081b5740db78" alt="Bloxluck Logo" width="125" height="125" style="background:white; vertical-align: middle;">
   </a>
 </h1>
 
