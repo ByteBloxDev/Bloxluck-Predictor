@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/BloxPaul/ba-l-yoruz/tree/main?tab=readme-ov-file">
-    <img src="https://media.discordapp.net/attachments/1325699637964701768/1341240388807168120/HeFoZthjM9k.jpg?ex=67b546f3&is=67b3f573&hm=83afca57ac6861aae101442c6f7ca36936e1709e7dba91782238e6c6269aee39&=&format=webp&width=776&height=310" alt="Logo" width="125" height="125" style="background:white; vertical-align: middle;">
+    <img src="https://media.discordapp.net/attachments/1325699637964701768/1341240508025933906/favicon.webp?ex=67b54710&is=67b3f590&hm=7be464c3c10436a9b0c7f6b1aea4df3296fa8b675ec11969e376a44123b8edfb&=&format=webp" alt="Logo" width="125" height="125" style="background:white; vertical-align: middle;">
   </a>
 </h1>
 
