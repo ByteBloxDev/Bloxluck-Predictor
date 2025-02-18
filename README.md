@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/BloxPaul/ba-l-yoruz/tree/main?tab=readme-ov-file">
+  <a href="[logo link](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22HeFoZthjM9k.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-02-18T02%3A41%3A24.117Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Feb7be7d0c5e340ee%2FHeFoZthjM9k.jpg%3FExpires%3D1834454484%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DZHyHty0OO50bq0hEsU-6YEzTKcXeRXUpMZH8csBtN2CwIkm5roKPnr0R0gzdPzQzFnQ2cmbcIjd5UsFbdYdUO~-5fSGuAJXrkSScbV9uMNzJFrk9CGYfzSwB~99fnEQKP3NaIA2cEuoHBFVNShJlPfLU10C5I7wfIweTT8XY-gmICme87Gm84B-Qtl0eeWHqH3~~NIQLjmQ31Y2-9QL509FR5FwtOcEp52jQken1j8DNLhER4pWVKenlMjS4nlNd4yOje25MSTnU5dSm3ozHPImoaIuq~k5ePGwPnamxZU7UWmmEG9ODf1R4AzgA9jWV0txPHdzyUdqPnbH0Ri~80g__%22%7D)">
     <img src="./blox.png" alt="Logo" width="125" height="125" style="background:white; vertical-align: middle;">
   </a>
 </h1>
